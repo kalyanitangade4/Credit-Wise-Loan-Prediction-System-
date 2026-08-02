@@ -90,18 +90,6 @@ pip install -r requirements.txt
 - Outlier detection via box plots across numeric features (2×3 subplot grid)
 - Credit Score vs. Loan Approval relationship
 
-<p align="center">
-  <img src="images/class_balance.png" width="45%" />
-  <img src="images/correlation_heatmap.png" width="45%" />
-</p>
-<p align="center">
-  <img src="images/income_histplot.png" width="45%" />
-  <img src="images/credit_score_vs_approval.png" width="45%" />
-</p>
-
-*Full set of plots (categorical breakdowns, outlier box plots, credit score distribution) available in `images/`.*
-
-
 ### 3. Feature Encoding
 - `LabelEncoder` for `Education_Level` and the target `Loan_Approved`
 - `OneHotEncoder(drop="first")` for nominal categoricals: `Employment_Status`, `Marital_Status`, `Loan_Purpose`, `Property_Area`, `Gender`, `Employer_Category`
