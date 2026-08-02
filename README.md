@@ -169,6 +169,5 @@ Run all cells sequentially (`Kernel → Restart & Run All`). Ensure `loan_data.c
 
 ---
 
-## 📄 License
-
-This project is currently unlicensed. Consider adding an [MIT License](https://choosealicense.com/licenses/mit/) or similar if you plan to share or accept contributions publicly.
+## 👨‍💻 Author
+Kalyani Tangade | B.Tech IT Graduate | Aspiring Data Scientist 📍 Mumbai, India
