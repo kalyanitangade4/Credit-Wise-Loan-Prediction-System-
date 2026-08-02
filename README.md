@@ -39,20 +39,6 @@ Manually underwriting every loan application is slow and inconsistent across rev
 
 Dropped columns: `Unnamed: 0`, `Applicant_ID` (non-predictive identifiers). The raw data contains missing values across both numeric and categorical fields.
 
----
-
-## 📁 Repository Structure
-
-```
-.
-├── images/                                    # EDA & analysis plots (referenced in this README)
-├── creditwise_loan-prediction-system.ipynb   # Main analysis notebook (cleaning → modeling)
-├── loan_data.csv                             # Raw applicant dataset (1,000 rows)
-├── .gitignore
-├── LICENSE
-├── README.md                                 # Project documentation (this file)
-└── requirements.txt                          # Python dependencies
-```
 
 ---
 
