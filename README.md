@@ -63,8 +63,8 @@ Dropped columns: `Unnamed: 0`, `Applicant_ID` (non-predictive identifiers). The 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/creditwise-loan-prediction.git
-cd creditwise-loan-prediction
+git clone https://github.com/kalyanitangade4/Credit-Wise-Loan-Prediction-System-.git
+cd Credit-Wise-Loan-Prediction-System-
 
 # (Optional) create a virtual environment
 python -m venv venv
